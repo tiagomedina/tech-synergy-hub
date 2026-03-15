@@ -10,6 +10,7 @@ import CyberSecurityPage from "./pages/CyberSecurity.tsx";
 import AutomacaoPage from "./pages/Automacao.tsx";
 import SobrePage from "./pages/Sobre.tsx";
 import ContatoPage from "./pages/Contato.tsx";
+import PortfolioPage from "./pages/Portfolio.tsx";
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 
