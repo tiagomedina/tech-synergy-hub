@@ -10,6 +10,7 @@ const navItems = [
   { label: "Marketing Digital", path: "/marketing" },
   { label: "Cyber Security", path: "/cybersecurity" },
   { label: "Automação", path: "/automacao" },
+  { label: "Portfólio", path: "/portfolio" },
   { label: "Sobre", path: "/sobre" },
   { label: "Contato", path: "/contato" },
 ];

@@ -6,6 +6,7 @@ const footerLinks = [
   { label: "Marketing Digital", path: "/marketing" },
   { label: "Cyber Security", path: "/cybersecurity" },
   { label: "Automação Residencial", path: "/automacao" },
+  { label: "Portfólio", path: "/portfolio" },
   { label: "Sobre a Empresa", path: "/sobre" },
   { label: "Contato", path: "/contato" },
 ];

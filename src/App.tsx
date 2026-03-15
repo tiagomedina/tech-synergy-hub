@@ -36,6 +36,7 @@ const App = () => (
           <Route path="/automacao" element={<AutomacaoPage />} />
           <Route path="/sobre" element={<SobrePage />} />
           <Route path="/contato" element={<ContatoPage />} />
+          <Route path="/portfolio" element={<PortfolioPage />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
